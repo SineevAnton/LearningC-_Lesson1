@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/bin/Debug/net6.0/3.LearningCsharp
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/bin/Debug/net6.0/3.LearningCsharp.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/bin/Debug/net6.0/3.LearningCsharp.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/bin/Debug/net6.0/3.LearningCsharp.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/bin/Debug/net6.0/3.LearningCsharp.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/refint/3.LearningCsharp.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/3.LearningCsharp.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.LearningCsharp/obj/Debug/net6.0/ref/3.LearningCsharp.dll
