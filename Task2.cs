@@ -3,6 +3,10 @@ public class Task2
 {
     public static void FindBigger()
     {
+        Console.WriteLine("_________________________________________________________________");
+        Console.WriteLine("2. Task2. Compare three input numbers and return maximal of them.");
+        Console.WriteLine();
+
         Console.WriteLine("Enter first integer or double (using dot) number.");
         double num1 = double.Parse(Console.ReadLine());
         Console.WriteLine("Enter second integer or double (using dot) number.");
@@ -26,5 +30,9 @@ public class Task2
         {
             Console.WriteLine("The biggest number is " + num3);
         }
+
+        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine("Task 2 complete.");
+        Console.WriteLine("Enter the number of task, you are interested in or type 'exit'.");
     }
 }

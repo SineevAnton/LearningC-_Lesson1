@@ -7,6 +7,10 @@ class Task4
 {
     public static void showEvenNumbers()
     {
+        Console.WriteLine("__________________________________________________");
+        Console.WriteLine("4. Task4. Write every even number from 1 to input number (N).");
+        Console.WriteLine();
+
         Console.WriteLine("Enter integer! number.");
         int num = int.Parse(Console.ReadLine());
         for (int i = 2; i <= num; i += 2)
@@ -14,5 +18,9 @@ class Task4
             Console.Write(i + " ");
         }
         Console.WriteLine(); //With this string i just cheked the carriege place at the end of the programm
+    
+        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine("Task 4 complete.");
+        Console.WriteLine("Enter the number of task, you are interested in or type 'exit'.");
     }
 }
