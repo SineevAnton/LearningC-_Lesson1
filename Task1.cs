@@ -3,7 +3,7 @@ public class Task1
 {
     public static void FindBigger()
     {
-        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine(GlobalVars.filler);
         Console.WriteLine("1. Task1. Compare two input numbers and return maximal of them.");
         Console.WriteLine();
         
@@ -19,7 +19,7 @@ public class Task1
         {
             Console.WriteLine(num1 > num2 ? "The biggest number is " + num1: "The biggest number is " + num2);
         }
-        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine(GlobalVars.filler);
         Console.WriteLine("Task 1 complete.");
         Console.WriteLine("Enter the number of task, you are interested in or type 'exit'.");
     }

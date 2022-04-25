@@ -4,7 +4,7 @@ class Task5
 {
     public static void fineLastDigit()
     {
-        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine(GlobalVars.filler);
         Console.WriteLine("5. Task5. Finding the last digit of an input number.");
         Console.WriteLine();
 
@@ -26,7 +26,7 @@ class Task5
             }
         }
 
-        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine(GlobalVars.filler);
         Console.WriteLine("Task 5 complete.");
         Console.WriteLine("Enter the number of task, you are interested in or type 'exit'.");
     }

@@ -3,7 +3,7 @@ class Task3
 {
     public static void isEven()
     {
-        Console.WriteLine("__________________________________________________");
+        Console.WriteLine(GlobalVars.filler);
         Console.WriteLine("3. Task3. Defines is the input number even or odd.");
         Console.WriteLine();
         
@@ -11,7 +11,7 @@ class Task3
         int num = int.Parse(Console.ReadLine());
         Console.WriteLine(num % 2 == 0? num + " is even.": num + " is odd.");
 
-        Console.WriteLine("_______________________________________________________________");
+        Console.WriteLine(GlobalVars.filler);
         Console.WriteLine("Task 3 complete.");
         Console.WriteLine("Enter the number of task, you are interested in or type 'exit'.");
     }
