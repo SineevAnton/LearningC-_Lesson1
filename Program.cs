@@ -9,13 +9,14 @@ Console.WriteLine("1. Task1. Compare two input numbers and return maximal of the
 Console.WriteLine("2. Task2. Compare three input numbers and return maximal of them.");
 Console.WriteLine("3. Task3. Defines is the input number even or odd.");
 Console.WriteLine("4. Task4. Write every even number from 1 to input number (N).");
+Console.WriteLine("5. Task5. Finding the last digit of an input number.");
 Console.WriteLine();
 Console.WriteLine("Enter the number of task, you are interested in.");
 Console.WriteLine("Example: if you want to choose Task2 - print '2' without quotes.");
 Console.WriteLine("If you want to stop the programm, type 'exit' without quotes.");
 
 bool Flag = true;
-string[] correctChoices = {"1","2","3","4","exit"};
+string[] correctChoices = {"1","2","3","4","5","exit"};
 
 while (Flag)
 {
@@ -36,6 +37,9 @@ while (Flag)
             case "4":
                 Task4.showEvenNumbers();
                 break;
+            case "5":
+                Task5.fineLastDigit();
+                break;
             case "exit":
                 Flag = false;
                 break;
@@ -44,6 +48,6 @@ while (Flag)
     else
     {
         Console.WriteLine("Incorrect input.");
-        Console.WriteLine("Please enter one of this: 1, 2, 3, 4 or exit");
+        Console.WriteLine("Please enter one of this: 1, 2, 3, 4, 5 or exit");
     }
 }
