@@ -14,19 +14,19 @@ public class Task2
         Console.WriteLine("Enter third integer or double (using dot) number.");
         double num3 = double.Parse(Console.ReadLine());
 
-        if (num1 == num2 & num1 == num3)
+        if (num1 == num2 && num1 == num3)
         {
             Console.WriteLine("Numbers are equal.");
         }
-        else if (num1 >= num2 & num1 >= num3)
+        else if (num1 > num2 && num1 > num3)
         {
             Console.WriteLine("The biggest number is " + num1);
         }
-        else if (num2 >= num1 & num2 >= num3)
+        else if (num2 > num3)
         {
             Console.WriteLine("The biggest number is " + num2);
         }
-        else if (num3 >= num1 & num3 >= num1)
+        else
         {
             Console.WriteLine("The biggest number is " + num3);
         }
